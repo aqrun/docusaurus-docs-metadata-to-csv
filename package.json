@@ -1,6 +1,6 @@
 {
   "name": "@aqrun/docusaurus-docs-metadata-to-csv",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "docs to csv",
   "author": "Aqrun",
   "keywords": [
