@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 1.0.0 (2020-09-17)
+
 ## [1.0.0-alpha.10](https://github.com/daldridge/docusaurus-plugin-lunr/compare/v1.0.0-alpha.9...v1.0.0-alpha.10) (2020-07-06)
 
 
